@@ -14,4 +14,4 @@ git add .
 git commit -m "Daily log update"
 
 # Push changes to the remote repository
-git push origin master
+git push -u origin main
